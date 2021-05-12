@@ -1,7 +1,7 @@
 const express = require("express");
 const router = express.Router();
 const User = require("../../../My personal bloog/models/User");
-const isAuth = require("../../../My personal bloog/middleware/isAuth");
+const isAuth = require("../middleware/isAuth");
 
 // get Logged in  members
 

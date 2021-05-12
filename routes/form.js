@@ -2,7 +2,7 @@ const express = require("express");
 const router = express.Router();
 const ContactForm = require("../models/ContactForm");
 const { check, validationResult } = require("express-validator");
-const isAuth = require("../../../My personal bloog/middleware/isAuth");
+const isAuth = require("../middleware/isAuth");
 
 router.post(
   "/",
