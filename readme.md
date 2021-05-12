@@ -10,6 +10,8 @@ Sass for design / styling. Functionalitites include CRUD, Authentication.
 This a blog used to share experiences and passions with the public. It has an admin space which is private and needs authentication (password to access).
 Once you have a password through registration you can then add blogs, read inquiries / bookings.
 
+## <a href="https://radiant-plateau-42412.herokuapp.com/">App Deployed Here</a>
+
 ## Demo
 <img src="demo.png "/>
 <img src="demo 2.png "/>
